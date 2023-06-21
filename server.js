@@ -8,11 +8,11 @@ app.use(cors())
 const xmen = {
     "professor x": {
         "realName": "Professor Charles Francis Xavier",
-        "powers": "World's most powerful [[telepath]], capable of [[astral projection]], [[mind control]], illusion casting, memory manipulation, psychic blasts, and sensing the presence of nearby [[mutants]]."
+        "powers": "World's most powerful telepath, capable of astral projection, mind control, illusion casting, memory manipulation, psychic blasts, and sensing the presence of nearby mutants."
     },
     "cyclops": {
         "realName": "Scott Summers",
-		"powers": "Projects a beam of ruby-colored concussive force from his eyes, which act as interdimensional [[aperture]]s between this universe and another."
+		"powers": "Projects a beam of ruby-colored concussive force from his eyes, which act as interdimensional apertures between this universe and another."
 	},
     "beast": {
         "realName": "Dr. Henry Philip 'Hank' McCoy",
@@ -20,15 +20,15 @@ const xmen = {
     },
     "jean grey": {
         "realName": "Jean Grey-Summers",
-		"powers": "Possesses [[telekinesis]] and telepathy. As the template of the Phoenix Force, she is able to generate unlimited amounts of energy, travel through time-space, and manipulate matter on a subatomic level."
+		"powers": "Possesses telekinesis and telepathy. As the template of the Phoenix Force, she is able to generate unlimited amounts of energy, travel through time-space, and manipulate matter on a subatomic level."
 	},
     "wolverine": {
         "realName": "James 'Logan' Howlett",
-		"powers": "Healing factor ([[Regeneration (biology)|regeneration of tissue]], immunity to virtually all toxins and pathogens, slowed aging process), enhanced senses, and retractable bone claws. Has the indestructible metal [[adamantium]] bonded to his skeleton, allowing enhanced physical attributes and sharp adamantium claws."
+		"powers": "Healing factor (Regeneration (biology)|regeneration of tissue, immunity to virtually all toxins and pathogens, slowed aging process), enhanced senses, and retractable bone claws. Has the indestructible metal adamantium bonded to his skeleton, allowing enhanced physical attributes and sharp adamantium claws."
 	},
     "storm": {
         "realName": "Ororo Monroe (formerly Iqadi T'Challa-Wakandas)",
-		"powers": "[[Weather control|Weather manipulation]] (lightning bolts, wind, rain, etc.) and flight by 'riding' wind currents."
+		"powers": "Weather control|Weather manipulation (lightning bolts, wind, rain, etc.) and flight by 'riding' wind currents."
 	},
     "rogue": {
         "realName": "Anna Marie",
@@ -36,11 +36,11 @@ const xmen = {
 	},
     "gambit":{
         "realName": "R-my LeBeau",
-		"powers": "Charges inanimate objects with explosive kinetic energy; enhanced agility and [[Hypnosis|hypnotic]] charm."
+		"powers": "Charges inanimate objects with explosive kinetic energy; enhanced agility and Hypnosis|hypnotic charm."
 	},
     "jubilee": {
         "realName": "Jubilation Lee",
-		"powers": "Currently possesses the powers and abilities of an average vampire. Formerly could project and control explosive [[plasmoid]]s, and possessed superhuman strength and flight through advanced technology."
+		"powers": "Currently possesses the powers and abilities of an average vampire. Formerly could project and control explosive plasmoids, and possessed superhuman strength and flight through advanced technology."
 	},
     "unknown": {
         "realName": "unknown",
